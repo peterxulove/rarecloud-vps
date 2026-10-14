@@ -11,6 +11,8 @@
 | [`rarecloud-vps-guide.html`](rarecloud-vps-guide.html) | 主页面（单文件，含 JSON-LD 结构化数据；每个价格单元格均为 aff 购买链接） |
 | [`rarecloud-vps-guide.md`](rarecloud-vps-guide.md) | 同一内容的 Markdown 版；每个价格均附 aff 购买链接 |
 | [`index.html`](index.html) | 首页跳转页（`/` → `rarecloud-vps-guide.html`） |
+| [GitHub Pages 预览](https://peterxulove.github.io/rarecloud-vps/rarecloud-vps-guide.html) | 在线选购指南 |
+| [Google Sites 预览](https://sites.google.com/view/rarecloud-vps) | Google Sites 镜像页 |
 
 ## RareCloud 推广购买入口（aff=1012）
 
