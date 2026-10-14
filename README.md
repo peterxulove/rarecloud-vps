@@ -19,33 +19,35 @@
 以下为 RareCloud 官方产品级推广链接。通过链接访问后购买，不会增加用户费用，
 商家会按每次续费支付 15% 持续佣金。
 
-| 产品线 | 套餐 | 最低月均价 | 最便宜周期 | 推广购买链接 |
-|--------|------|------------|------------|--------------|
-| Linux KVM VPS | Starter KVM | €2.08/月 | 三年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=3) |
-| Linux KVM VPS | Micro KVM | €1.56/月 | 三年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=6) |
-| Linux KVM VPS | Advanced KVM | €3.89/月 | 三年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=11) |
-| Linux KVM VPS | Core VPS | €3.19/月 | 三年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=12) |
-| Linux KVM VPS | Plus VPS | €7.92/月 | 半年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=13) |
-| Linux KVM VPS | Pro VPS | €16.25/月 | 半年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=14) |
-| Linux KVM VPS | Elite VPS | €25.00/月 | 三年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=15) |
-| Linux KVM VPS | Do It Yourself VPS | €6.25/月 | 半年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=16) |
-| Windows RDP VPS | Win 4G | €12.92/月 | 年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=7) |
-| Windows RDP VPS | Win 8G | €24.58/月 | 年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=17) |
-| Windows RDP VPS | Win 12G | €28.75/月 | 年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=18) |
-| 应用预装 VPS | N8N Starter | €4.00/月 | 年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=36) |
-| 应用预装 VPS | N8N PRO | €5.69/月 | 年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=37) |
-| 应用预装 VPS | OpenClaw Server | €4.00/月 | 年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=49) |
-| 应用预装 VPS | OpenClaw Desktop | €5.69/月 | 年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=50) |
-| Web 虚拟主机 | StartUp | €7.92/月 | 年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=21) |
-| Web 虚拟主机 | Business | €16.25/月 | 年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=22) |
-| Web 虚拟主机 | Enterprise | €16.25/月 | 两年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=23) |
-| Web 虚拟主机 | Website Hosting | €2.22/月 | 三年付 | [下单 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=51) |
+| 产品线 | 套餐 | 配置 | 最低月均价 | 最便宜周期 | 推广购买链接 |
+|--------|------|------|------------|------------|--------------|
+| Linux KVM VPS | Starter KVM | 1 vCPU / 1GB RAM / 25GB NVMe / 3TB /month | €2.08/月 | 三年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=3) |
+| Linux KVM VPS | Micro KVM | 1 vCPU / 768MB RAM / 15GB NVMe / 1TB /month | €1.56/月 | 三年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=6) |
+| Linux KVM VPS | Advanced KVM | 1 vCPU / 2.5GB RAM / 45GB NVMe / 5TB /month | €3.89/月 | 三年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=11) |
+| Linux KVM VPS | Core VPS | 1 vCPU / 2GB RAM / 40GB NVMe / 3TB /month | €3.19/月 | 三年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=12) |
+| Linux KVM VPS | Plus VPS | 2 vCPU / 4GB RAM / 65GB NVMe / 5TB /month | €7.92/月 | 半年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=13) |
+| Linux KVM VPS | Pro VPS | 4 vCPU / 8GB RAM / 100GB NVMe / 7TB /month | €16.25/月 | 半年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=14) |
+| Linux KVM VPS | Elite VPS | 4 vCPU / 16GB RAM / 150GB NVMe / 10TB /month | €25.00/月 | 三年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=15) |
+| Linux KVM VPS | Do It Yourself VPS | 1–8 vCPU 自选 / 1–32 GB 自选 / 20–500 GB 自选 / 1–20 TB 自选 | €6.25/月 | 半年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=16) |
+| Windows RDP VPS | Win 4G | 2 vCPUs / 4GB RAM / 60GB NVMe / 4TB /month | €12.92/月 | 年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=7) |
+| Windows RDP VPS | Win 8G | 4 vCPUs / 8GB RAM / 120GB NVMe / 6TB /month | €24.58/月 | 年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=17) |
+| Windows RDP VPS | Win 12G | 4 vCPUs / 12GB RAM / 160GB NVMe / 10TB /month | €28.75/月 | 年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=18) |
+| 应用预装 VPS | N8N Starter | 2 vCPU / 4GB RAM / 65GB NVMe / 5TB /month | €4.00/月 | 年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=36) |
+| 应用预装 VPS | N8N PRO | 4 vCPU / 8GB RAM / 100GB NVMe / 7TB /month | €5.69/月 | 年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=37) |
+| 应用预装 VPS | OpenClaw Server | 2 vCPU / 4GB RAM / 65GB NVMe / 5TB /month | €4.00/月 | 年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=49) |
+| 应用预装 VPS | OpenClaw Desktop | 4 vCPU / 8GB RAM / 100GB NVMe / 7TB /month | €5.69/月 | 年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=50) |
+| Web 虚拟主机 | StartUp | 1.5 核 / 2GB RAM / 50GB NVMe / 不限流量 | €7.92/月 | 年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=21) |
+| Web 虚拟主机 | Business | 3 核 / 4GB RAM / 100GB NVMe / 不限流量 | €16.25/月 | 年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=22) |
+| Web 虚拟主机 | Enterprise | 6 核 / 8GB RAM / 不限 NVMe / 不限流量 | €16.25/月 | 两年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=23) |
+| Web 虚拟主机 | Website Hosting | 共享 / 共享 / 10GB NVMe / 不限流量 | €2.22/月 | 三年付 | [购买 →](https://rarecloud.io/clients/aff.php?aff=1012&pid=51) |
 
 ## 内容结构
 
-速览结论 → 19 个套餐与真实月均价 → 12 个数据中心（机房 / ASN / 上游 / IX / test IP）→
-大陆三网 × 机房适配矩阵 → 逐条产品线详解（含 Cloud VM 13 规格与云附加件）→
-NodeSeek 社区真实评价 → 6 条风险提示 → 常见问题 → 数据来源。
+一分钟选型结论 → 全部套餐速览表 → 按运营商 / 机房选（三网 × 6 类机房星级矩阵）→
+12 个数据中心与 test IP（含每机房的「选此机房下单」入口）→ 五条产品线逐档详解
+（每档每个计费周期都是推广价格链接 + 购买 CTA，末尾另有整线购买入口大按钮）→
+Cloud VM 13 规格与云附加服务 → 全部 19 个套餐总表 → 社区口碑（被认可 / 被吐槽）→
+13 条常见问题 → 8 条选购注意事项与风险提示 → 数据来源与引用。
 
 ## 核心结论
 
