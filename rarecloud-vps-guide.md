@@ -447,12 +447,12 @@ Cloud VM 和前面的 VPS 是**两套完全不同的计费体系**：只在**布
 
 | 服务 | 价格 | 购买入口 |
 | --- | --- | --- |
-| 快照 Snapshot | €0.05 / GB / 月，每台最多 5 个，单个最低 €0.25 | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
-| 块存储 Block Storage | €0.05 / GB / 月，单卷最大 2 TB，可分离后带数据迁移到别的机器 | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
-| 保留 IP Reserved IP | €2 / 月 | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
-| 负载均衡 Load Balancer | €9 / 月（含公网 IP），L4 + 健康检查 | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
-| 对象存储 Object Storage | €10 / 月含 1 TB（S3 兼容，aws-cli / rclone / 各家 S3 SDK 都能用） | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
-| Managed Kubernetes | 控制面免费，worker 从 €7.99 / 月起 | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
+| 快照 Snapshot | [€0.05 / GB / 月，每台最多 5 个，单个最低 €0.25](https://rarecloud.io/clients/aff.php?aff=1012) | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
+| 块存储 Block Storage | [€0.05 / GB / 月，单卷最大 2 TB，可分离后带数据迁移到别的机器](https://rarecloud.io/clients/aff.php?aff=1012) | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
+| 保留 IP Reserved IP | [€2 / 月](https://rarecloud.io/clients/aff.php?aff=1012) | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
+| 负载均衡 Load Balancer | [€9 / 月（含公网 IP），L4 + 健康检查](https://rarecloud.io/clients/aff.php?aff=1012) | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
+| 对象存储 Object Storage | [€10 / 月含 1 TB（S3 兼容，aws-cli / rclone / 各家 S3 SDK 都能用）](https://rarecloud.io/clients/aff.php?aff=1012) | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
+| Managed Kubernetes | [控制面免费，worker 从 €7.99 / 月起](https://rarecloud.io/clients/aff.php?aff=1012) | [部署时添加 →](https://rarecloud.io/clients/aff.php?aff=1012) |
 
 **购买入口**：[前往控制台部署 Cloud VM →](https://rarecloud.io/clients/aff.php?aff=1012)
 
